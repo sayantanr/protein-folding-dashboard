@@ -6,7 +6,7 @@ The platform consists of two master modules designed to handle everything from p
 ### 🔬 [Module 1: The Research Lab (app.py)](file:///c:/Users/Admin/protein_lab/app.py)
 A high-density dashboard featuring the **50-Metric Deep Analytics Engine** and the **50-Graph Advanced Visualization Suite**. It is optimized for interpreting AI-generated folds (AlphaFold/ESMFold) and validating structural integrity.
 ### 🧪 [Module 2: The Advanced Structural Engine (app2.py)](file:///c:/Users/Admin/protein_lab/app2.py)
-A heavy-duty computational suite powered by **Biopython**, **ProDy**, and **MDTraj**. It enables large-scale Normal Mode Analysis (NMA), trajectory analytics, and evolutionary phylogeny.
+A heavy-duty computational suite powered by **Biopython**, and **MDTraj**. It enables large-scale Normal Mode Analysis (NMA), trajectory analytics, and evolutionary phylogeny.
 ---
 ## 📊 Feature Highlights: The 100-Feature Suite
 ### 1. The 50-Metric Deep Analytics Engine
