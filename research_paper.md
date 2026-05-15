@@ -1,6 +1,6 @@
 # Advancing Structural Bioinformatics: A Unified Framework for Multi-Dimensional Protein Analytics and AI-Driven Folding Interpretation
 
-**Author:** Antigravity Research Lab  
+**Author:** Sayantan Roy
 **Version:** 7.0 (Master Edition)  
 **Date:** May 15, 2026
 
